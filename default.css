@@ -2,8 +2,8 @@
     /* Generic */
     --tridactyl-font-family: monospace;
     --tridactyl-font-family-sans: sans-serif;
-    --tridactyl-font-size: 14pt;
-    --tridactyl-small-font-size: 12px;
+    --tridactyl-font-size: 18pt;
+    --tridactyl-small-font-size: 14px;
     --tridactyl-bg: #3b4252;
     --tridactyl-fg: #e5e9f0;
     --tridactyl-logo: url("moz-extension://__MSG_@@extension_id__/static/logo/Tridactyl_64px.png");
@@ -98,7 +98,7 @@
     /*option focused*/
 
     --tridactyl-of-fg: var(--tridactyl-fg);
-    --tridactyl-of-bg: 4c566a;
+    --tridactyl-of-bg: #4c566a;
 
     /*new tab spoiler box*/
     --tridactyl-highlight-box-bg: #434c5e;
