@@ -27,7 +27,7 @@
     --tridactyl-hintspan-font-size: var(--tridactyl-small-font-size);
     --tridactyl-hintspan-font-weight: bold;
     --tridactyl-hintspan-fg: var(--tridactyl-fg);
-    --tridactyl-hintspan-bg: #8fbcbb;
+    --tridactyl-hintspan-bg: #5e81ac;
     --tridactyl-hintspan-border-color: ButtonShadow;
     --tridactyl-hintspan-border-width: 0px;
     --tridactyl-hintspan-border-style: solid;
@@ -35,11 +35,11 @@
 
     /* Element highlights */
     --tridactyl-hint-active-fg: var(--tridactyl-fg);
-    --tridactyl-hint-active-bg: rgba(129, 161, 193, 0);
-    --tridactyl-hint-active-outline: 1px solid #8fbcbb;
+    --tridactyl-hint-active-bg: rgba(76, 86, 106, 0.2);
+    --tridactyl-hint-active-outline: 1px solid #5e81ac;
 
     --tridactyl-hint-bg: rgba(129, 161, 193, 0);
-    --tridactyl-hint-outline: 1px solid #8fbcbb;
+    --tridactyl-hint-outline: 1px solid #5e81ac;
 
     /* :viewsource */
     --tridactyl-vs-bg: var(--tridactyl-bg);
