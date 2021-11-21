@@ -35,7 +35,7 @@
 
     /* Element highlights */
     --tridactyl-hint-active-fg: var(--tridactyl-fg);
-    --tridactyl-hint-active-bg: rgba(76, 86, 106, 0.60);
+    --tridactyl-hint-active-bg: rgba(76, 86, 106, 1);
     --tridactyl-hint-active-outline: 1px solid #5e81ac;
 
     --tridactyl-hint-bg: rgba(129, 161, 193, 0);
