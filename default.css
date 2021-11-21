@@ -73,15 +73,11 @@
 
     /*sectionHeader*/
 
-    --tridactyl-header-first-bg: #4c566a;
-    --tridactyl-header-second-bg: #4c566a;
-    --tridactyl-header-third-bg: #4c566a;
-    /* eg. What if I dont want liner-gradient as bg?
-     *
-     * :root .sectionHeader { background: blue; }
-     *
-     * ????
-     */
+    --tridactyl-header-first-bg: #585E6C;
+    --tridactyl-header-second-bg: #585E6C;
+    --tridactyl-header-third-bg: #585E6C;
+    :root .sectionHeader { background: #585E6C; }
+    
 
     --tridactyl-header-font-size: inherit;
     --tridactyl-header-font-weight: bold;
@@ -98,7 +94,7 @@
     /*option focused*/
 
     --tridactyl-of-fg: var(--tridactyl-fg);
-    --tridactyl-of-bg: #4c566a;
+    --tridactyl-of-bg: #3b4252;
 
     /*new tab spoiler box*/
     --tridactyl-highlight-box-bg: #434c5e;
