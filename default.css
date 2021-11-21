@@ -93,8 +93,8 @@
 
     /*option focused*/
 
-    --tridactyl-of-fg: var(--tridactyl-fg);
-    --tridactyl-of-bg: #3b4252;
+    --tridactyl-of-fg: #eceff4;
+    --tridactyl-of-bg: #434c5e;
 
     /*new tab spoiler box*/
     --tridactyl-highlight-box-bg: #434c5e;
